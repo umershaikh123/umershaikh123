@@ -13,6 +13,7 @@
 <img src="https://img.icons8.com/fluency/48/undefined/python.png"/>
 <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+<img src="https://img.icons8.com/fluency/48/undefined/android-os.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/undefined/metamask-logo.png"/>
 <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/undefined/external-ethereum-cryptocurrency-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
