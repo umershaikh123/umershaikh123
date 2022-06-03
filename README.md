@@ -3,7 +3,8 @@
 
 ### - 🔭 I’m in currently 2nd year of my university.
 ### - 🌱 I have a good logic building and fast learning .
-### - 👯 I'm currenlt learning about OOP , data structures and alogorithms , solidity , crypto and web front end.
+### - 👯 I'm currently learning about OOP , data structures and alogorithms , solidity , crypto and web front end.
+### - ✨ I have experience in Native mobile development
 ### - 👨‍💻 My goal is to become a Blockchain developer and build amazing Dapps 
 ### - 💬 Ask me about anything regarding my work and seek me for volunteering.
 ### - ⚡ Fun fact: I love nfts , metaverse , anime and games.
