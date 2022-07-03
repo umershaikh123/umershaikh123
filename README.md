@@ -3,8 +3,8 @@
 
 ### - 🔭 I’m in currently 2nd year of my university.
 ### - 🌱 I have a good logic building and fast learning .
-### - 👯 I'm currently learning about OOP , data structures and alogorithms , solidity , crypto and web front end.
-### - ✨ I have experience in Native mobile development
+### - 👯 I'm currently building my Blockchain stack with web Front-end .
+### - ✨ I have experience in Native mobile development , OOP , Java and C++
 ### - 👨‍💻 My goal is to become a Blockchain developer and build amazing Dapps 
 ### - 💬 Ask me about anything regarding my work and seek me for volunteering.
 ### - ⚡ Fun fact: I love nfts , metaverse , anime and games.
@@ -13,6 +13,7 @@
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <img src="https://img.icons8.com/fluency/48/undefined/python.png"/>
 <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
@@ -21,6 +22,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/undefined/metamask-logo.png"/>
 <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/undefined/external-ethereum-cryptocurrency-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
+
 
 
 
