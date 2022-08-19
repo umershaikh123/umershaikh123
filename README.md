@@ -35,7 +35,16 @@
  
 
 # My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umershaikh123&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/umershaikh123/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umershaikh123&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice)](https://git.io/streak-stats)
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umershaikh123&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/umershaikh123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umershaikh123&hide_title=true&langs_count=8&text_color=fff&bg_color=141414&layout=compact)](https://github.com/umershaikh123/github-readme-stats)
+
+
+
+ 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=umershaikh123">
+ 
+</a>
