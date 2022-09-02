@@ -1,5 +1,5 @@
 # Hello there 👋 I'm Muhammad Umer Shaikh
-## Future Blockchain developer , Student of CS 
+## Blockchain/web3 developer , Student of CS 
 
 ### - 🔭 I’m in currently 2nd year of my university.
 ### - 🌱 I have a good logic building and fast learning .
