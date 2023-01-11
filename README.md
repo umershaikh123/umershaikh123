@@ -1,13 +1,12 @@
-# Hello there 👋 I'm Muhammad Umer Shaikh
-## Blockchain/web3 developer , Student of CS 
+## Hello there 👋 I'm Muhammad Umer Shaikh
+### Full Stack Blockchain developer || Entrepreneur || Hackathon Winner
 
-### - 🔭 I’m in currently 2nd year of my university.
-### - 🌱 I have a good logic building and fast learning .
-### - 👯 I'm currently building my Blockchain stack with web Front-end .
-### - ✨ I have experience in Native mobile development , OOP , Java and C++
-### - 👨‍💻 My goal is to become a Blockchain developer and build amazing Dapps 
+### - 🌱 Currently playing online international Blockchain Hackathons.
+### - 👯 Diving Deep into the Blockchain Ecosystem.  
+### - 👨‍💻 My goal is to become build amazing Blockchain startups 
+### - 🔭 I’m in currently 3nd year of my university .
 ### - 💬 Ask me about anything regarding my work and seek me for volunteering.
-### - ⚡ Fun fact: I love nfts , metaverse , anime and games.
+### - ⚡ Fun fact: I love connecting with other passionate Developers .
 ### - Languages and Tools
 
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
@@ -33,9 +32,7 @@
 <a href="https://www.instagram.com/umershaikh644/?hl=en" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 
-### - My Blockchain Community 
-Link : https://discord.gg/wP7f3sdXWj
- 
+
 
 # My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umershaikh123&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe)
