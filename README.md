@@ -4,9 +4,15 @@
 ### - 🌱 Currently playing online international Blockchain Hackathons.
 ### - 👯 Diving Deep into the Blockchain Ecosystem.  
 ### - 👨‍💻 My goal is to become build amazing Blockchain startups 
-### - 🔭 I’m in currently 3nd year of my university .
-### - 💬 Ask me about anything regarding my work and seek me for volunteering.
+### - 🔭 I’m in currently 3nd year of my university . 
 ### - ⚡ Fun fact: I love connecting with other passionate Developers .
+
+<br>
+
+![medium icon](https://user-images.githubusercontent.com/42178214/218302829-a4cdcb6b-4d72-4505-bf66-991e57725c66.svg)
+- [Guide to IPFS](https://medium.com/@umershaikh217/a-guide-to-understanding-ipfs-20b7cbd6e327)
+
+ 
 ### - Languages and Tools
 
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
