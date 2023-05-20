@@ -97,7 +97,7 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 
 
-<p float="left">
+<p float="center">
  
  <a href="">
  <img width="400" height="250" alt="fvm-space-warp-2023-staked-hacker-2023-logo-1676425674291" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3eb47af-eb70-4e21-8fd1-3970bf574047">
@@ -122,7 +122,7 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 <p align="center">
  
-<img width="800" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/31099954-3b3c-4500-89ac-cb22eea8a6a6">
+<img width="780" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/31099954-3b3c-4500-89ac-cb22eea8a6a6">
 
 
 </p>
