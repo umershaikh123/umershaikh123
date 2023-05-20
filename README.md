@@ -2,10 +2,9 @@
 <p align="left">
  
 ### Hello there 👋 I'm Muhammad Umer Shaikh
-### Full Stack Blockchain developer || Entrepreneur || Hackathon Winner
+### Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 
- 
 - 🌱 Currently playing online international Blockchain Hackathons.
  
 - 👯 Diving Deep into the Blockchain Ecosystem.  
