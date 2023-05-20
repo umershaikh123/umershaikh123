@@ -50,7 +50,8 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Umer_Shaikh789)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:umershaikh217@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/umer.shaikh.50159)
- 
+
+[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium />](https://medium.com/@umershaikh217)
 
 # My Github Stats
 
@@ -124,7 +125,8 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 <p align="center">
  
-<img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/55924771-31ec-45bd-98b9-36edba104b04"/>
+<img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/31099954-3b3c-4500-89ac-cb22eea8a6a6">
+
 
 </p>
  
