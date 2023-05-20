@@ -1,4 +1,4 @@
-<img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"   align="right">
+<img  width=500 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"   align="right">
 <p align="left">
  
 ### Hello there 👋 I'm Muhammad Umer Shaikh
