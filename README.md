@@ -5,15 +5,15 @@
 ### Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 
-- 🌱 Currently playing online international Blockchain Hackathons.
+- 🌱 Currently playing online international Blockchain Hackathons
  
-- 👯 Diving Deep into the Blockchain Ecosystem.  
+- 👯 Diving Deep into the Blockchain Ecosystem
  
 - 👨‍💻 My goal is to become build amazing Blockchain startups 
  
-- 🔭 I’m in currently 3nd year of my university . 
+- 🔭 I’m in currently 3nd year of my university 
  
-- ⚡ Fun fact: I love connecting with other passionate Developers .
+- ⚡ Fun fact: I love connecting with other passionate Developers
  
 
 
@@ -50,6 +50,7 @@
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Umer_Shaikh789)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:umershaikh217@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/umer.shaikh.50159)
+ 
 
 # My Github Stats
 
@@ -78,8 +79,23 @@
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=umershaikh123&theme=react-dark&hide_border=true&area=true"/>
 
 </p>
+
+
+
+
+<p align="left">
  
-## Participated Blockchain Hackathons  
+
+ 
+<img align="left" width="80" height="100" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/51d72d21-0a51-4488-a58d-9990e4dacfbf"/> 
+ 
+
+</p>
+
+ ## Participated Blockchain Hackathons  
+
+
+
 
 <p float="left">
  
