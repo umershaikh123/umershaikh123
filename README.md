@@ -82,17 +82,19 @@
 
 
 
+### Participated Blockchain Hackathons  
 
-<p align="left">
+<p align="center" >
  
 
  
-<img align="left" width="80" height="100" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/51d72d21-0a51-4488-a58d-9990e4dacfbf"/> 
- 
 
+ <img  width="180" height="180" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/026986c8-2648-490f-b584-278f05ce02f4"/> 
+ 
 </p>
 
- ## Participated Blockchain Hackathons  
+
+ 
 
 
 
