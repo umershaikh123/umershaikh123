@@ -60,33 +60,38 @@
 
 <br>
 
- <img height="400" align="left" width="200" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
+ <p align="center">
+ <img height="500" align="left" width="200" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
 
-<img align="center" width="150" src="https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice"/>
+<img align="center"  width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice"/>
 
-<img height="400" align="right" width="180" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73">
+<img height="500" align="right" width="200" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73">
 
- <img align="center" width="150" src="https://github-readme-stats.vercel.app/api?username=umershaikh123&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
+</p>
+ 
+  <p align="center">
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=umershaikh123&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
+ </p>
+
+
+<p align="center">
+
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=umershaikh123&theme=react-dark&hide_border=true&area=true"/>
+
+</p>
  
  
+<p align="center">
  
-
- 
-
-<br>
-
-<br>
-
-<br>
-
-# Most Used Languages
- 
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=umershaikh123&theme=react-dark&hide_border=true&area=true)
-
-
+</p> 
  
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=umershaikh123">
- 
 </a>
+
+
+
+
+
+
+
