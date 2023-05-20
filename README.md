@@ -118,14 +118,11 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 </p> 
  
  
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=umershaikh123">
-</a>
 
 
 <p align="center">
  
-<img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/31099954-3b3c-4500-89ac-cb22eea8a6a6">
+<img width="800" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/31099954-3b3c-4500-89ac-cb22eea8a6a6">
 
 
 </p>
