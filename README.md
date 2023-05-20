@@ -86,9 +86,6 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 <p align="center" >
  
-
- 
-
  <img  width="180" height="180" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/026986c8-2648-490f-b584-278f05ce02f4"/> 
  
 </p>
@@ -117,7 +114,6 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
   <a href="">
  <img width="400" height="250" alt="cyber-connect-2023" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/197a4e67-4630-4f39-a94a-0b836605b0de">
  </a>
-
 </p> 
  
  
@@ -126,6 +122,12 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 </a>
 
 
+<p align="center">
+
+<img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5544ea68-bce3-48c8-b972-04ea5a05551b"/>
+
+</p>
+ 
 
 
 
