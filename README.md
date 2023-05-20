@@ -1,4 +1,4 @@
-<img  width=500 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"   align="right">
+<img  width=400 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
 <p align="left">
  
 ### Hello there 👋 I'm Muhammad Umer Shaikh
@@ -81,23 +81,23 @@
  
 ## Participated Blockchain Hackathons  
 
-<p align="center">
+<p float="left">
  
  <a href="">
- <img width="450" height="250" alt="fvm-space-warp-2023-staked-hacker-2023-logo-1676425674291" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3eb47af-eb70-4e21-8fd1-3970bf574047">
+ <img width="400" height="250" alt="fvm-space-warp-2023-staked-hacker-2023-logo-1676425674291" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3eb47af-eb70-4e21-8fd1-3970bf574047">
  </a>
  
  <a href="">
- <img width="450" height="250" alt="moralis-x-filecoin-2022-hackathon" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/a3b88ae2-ec6d-43ba-814b-1d82af954c33">
+ <img width="400" height="250" alt="moralis-x-filecoin-2022-hackathon" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/a3b88ae2-ec6d-43ba-814b-1d82af954c33">
  </a>
  
  
   <a href="">
- <img width="450" height="250" alt="cyber-connect-2023" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/eb3e30b6-c6db-4ed3-a7fb-517d64ee9fd8">
+ <img width="400" height="250" alt="cyber-connect-2023" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/eb3e30b6-c6db-4ed3-a7fb-517d64ee9fd8">
  </a>
  
   <a href="">
- <img width="450" height="250" alt="cyber-connect-2023" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/197a4e67-4630-4f39-a94a-0b836605b0de">
+ <img width="400" height="250" alt="cyber-connect-2023" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/197a4e67-4630-4f39-a94a-0b836605b0de">
  </a>
 
 </p> 
