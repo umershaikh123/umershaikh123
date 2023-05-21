@@ -12,7 +12,7 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
  
 - 👨‍💻 My goal is to become build amazing Blockchain startups 
  
-- 🔭 I’m in currently 3nd year of my university 
+- 🔭 I’m in currently 3rd year of my university 
  
 - ⚡ Fun fact: I love connecting with other passionate Developers
  
