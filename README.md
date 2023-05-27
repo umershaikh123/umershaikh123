@@ -56,7 +56,7 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 # My Github Stats
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=umershaikh123&theme=darkhub&column=-1&margin-w=15">
+ <img src="https://github-profile-trophy.vercel.app/?username=umershaikh123&theme=darkhub&column=-1&margin-w=15&show_icons=true&rank_icon=github">
 </p>
 
 
@@ -70,7 +70,7 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
  <p align="center">
  <img height="500" align="left" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
 
-<img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice"/>
+<img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice&show_icons=true&rank_icon=github"/>
 
 <img height="500" align="right" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73">
 
@@ -88,11 +88,18 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 </p>
 
 
+<p align="left">
+
+<img width="200" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
+ <img width="200" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
+ <img width="200" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
+ <img width="50" height="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
+
+</p>
 
 
-
-
-
+ 
+ 
 
  
 # Participated Blockchain Hackathons  
@@ -104,7 +111,9 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 </p>
 
 
- 
+
+
+
 
 
 
