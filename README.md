@@ -90,10 +90,9 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 <p align="left">
 
-<img width="200" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
- <img width="200" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
- <img width="200" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
- <img width="50" height="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
+<img width="300" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
+ <img width="300" height="150"  src="https://github.com/umershaikh123/umershaikh123/assets/42178214/bf7fbe80-5168-45b9-a82c-4fac4be2eb45"/>
+
 
 </p>
 
