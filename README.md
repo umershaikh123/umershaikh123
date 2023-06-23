@@ -83,7 +83,7 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 <p align="center">
 
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=umershaikh123&theme=react-dark&hide_border=true&area=true"/>
+
 
 </p>
 
