@@ -53,6 +53,8 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 
 [<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium />](https://medium.com/@umershaikh217)
 
+
+
 # My Github Stats
 
 <p align="center">
@@ -142,7 +144,12 @@ Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
 </p> 
  
  
-
+<a
+  title="Like Umer's work? Buy him a coffee"
+  class="bmac"
+  href="https://www.buymeacoffee.com/umershaikhf" target="_blank">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MuhammadUmer&button_colour=028692&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
+</a>
 
 
 
