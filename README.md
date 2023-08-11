@@ -5,14 +5,14 @@
  
 ### Hello there 👋 I'm Muhammad Umer Shaikh
  
-Full Stack Blockchain developer | Entrepreneur | Hackathon Winner
+Full Stack Blockchain developer | Entrepreneur | Hackathon Winner | Ai enthusiast
 
 
-- 🌱 Currently playing online international Blockchain Hackathons
+- 🌱 Currently participating in online international Hackathons
  
-- 👯 Diving Deep into the Blockchain Ecosystem
+- 👯 Diving Deep into the Blockchain and Ai models
  
-- 👨‍💻 My goal is to become build amazing Blockchain startups 
+- 👨‍💻 My goal is to become build startups and get a remote job
  
 - 🔭 I’m in currently 3rd year of my university 
  
