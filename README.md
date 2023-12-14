@@ -4,15 +4,15 @@
 <p align="left">
   
 
-Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Developer and Entrepreneur, with a proven track record as a Hackathon Winner and a passionate Ai Enthusiast.
+Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Developer and Entrepreneur, with a proven track record as a Hackathon Winner .
 
-🌱 Currently, I'm actively engaged in international online Hackathons, constantly pushing the boundaries of my skills and expertise.
+🌱 Currently, I'm actively engaged in building a defi product for the Ethereum Ecosystem.
 
-👯 I'm immersing myself in the intricate worlds of Blockchain and Ai models, crafting innovative solutions that bridge technology and business seamlessly.
+👯 I'm immersing myself in the intricate worlds of Blockchain  ,c rafting innovative solutions that bridge technology and business seamlessly.
 
 👨‍💻 My ultimate ambition is to cultivate startups that drive real impact and to secure a fulfilling remote role that allows me to contribute my expertise to transformative projects.
 
-🔭 Presently in my 3rd year at university, I'm harnessing the power of education to fuel my passion and accelerate my journey toward technical excellence.
+🔭 Presently in my 4th year at university, I'm harnessing the power of education to fuel my passion and accelerate my journey toward technical excellence.
 
 ⚡ And here's a fun tidbit about me: I thrive on connecting with fellow dedicated Developers, because collaboration sparks the most brilliant ideas.
 
@@ -20,11 +20,10 @@ Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Devel
 
 - Website Development: Crafting seamless digital experiences powered by cutting-edge technologies.
 - Next.js, CSS, HTML, React: Harnessing the latest web development tools for stunning and responsive designs.
-- AI Expertise: Leveraging my profound understanding of AI to create sophisticated solutions.
-- Prompt Engineering: Tailoring AI models for precise and effective outcomes.
 - AI Chatbots: Designing interactive and intelligent conversational interfaces.
 - GPT-4 and AI Model Integration: Seamlessly integrating powerful AI models into various applications.
 - Blockchain DApps: Building decentralized applications that redefine industries.
+ 
 
 
 
