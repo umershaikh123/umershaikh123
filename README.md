@@ -36,19 +36,11 @@ Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Devel
 
 ### - Languages and Tools
 
-<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-<img src="https://img.icons8.com/fluency/48/undefined/python.png"/>
-<img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-<img src="https://img.icons8.com/fluency/48/undefined/android-os.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/undefined/metamask-logo.png"/>
-<img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/undefined/external-ethereum-cryptocurrency-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
-
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,apollo,css,js,ts,nodejs,bun,express,materialui,tailwind,react,nextjs,postgres,discord,figma,git,linux,solidity,vscode&perline=10" />
+  </a>
+</p>
 
  
 
@@ -92,16 +84,11 @@ Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Devel
  </p>
 
 
-<p align="center">
-
-
-
-</p>
+ [![An image of @um1888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/um1888)](https://holopin.io/@um1888)
 
 
 <p>
-
-
+ 
 
 
 </p>
