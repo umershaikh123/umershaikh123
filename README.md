@@ -6,9 +6,9 @@
 
 Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Developer and Entrepreneur, with a proven track record as a Hackathon Winner .
 
-🌱 Currently, I'm actively engaged in building a defi product for the Ethereum Ecosystem.
+🌱 Currently, I'm building working on Defi Layer 2s ,  Rollup Yeilds and Infrastructure at Nexus Network
 
-👯 I'm immersing myself in the intricate worlds of Blockchain  ,c rafting innovative solutions that bridge technology and business seamlessly.
+👯 I'm immersing myself in the intricate worlds of Blockchain  ,crafting innovative solutions that bridge technology and business seamlessly.
 
 👨‍💻 My ultimate ambition is to cultivate startups that drive real impact and to secure a fulfilling remote role that allows me to contribute my expertise to transformative projects.
 
