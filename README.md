@@ -2,37 +2,11 @@
  
 <img  width=400 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
 <p align="left">
-  
-
-Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Developer and Entrepreneur, with a proven track record as a Hackathon Winner .
-
-🌱 Currently, I'm building working on Defi Layer 2s ,  Rollup Yeilds and Infrastructure at Nexus Network
-
-👯 I'm immersing myself in the intricate worlds of Blockchain  ,crafting innovative solutions that bridge technology and business seamlessly.
-
-👨‍💻 My ultimate ambition is to cultivate startups that drive real impact and to secure a fulfilling remote role that allows me to contribute my expertise to transformative projects.
-
-🔭 Presently in my 4th year at university, I'm harnessing the power of education to fuel my passion and accelerate my journey toward technical excellence.
-
-⚡ And here's a fun tidbit about me: I thrive on connecting with fellow dedicated Developers, because collaboration sparks the most brilliant ideas.
-
-💼 Services I Offer:
-
-- Website Development: Crafting seamless digital experiences powered by cutting-edge technologies.
-- Next.js, CSS, HTML, React: Harnessing the latest web development tools for stunning and responsive designs.
-- AI Chatbots: Designing interactive and intelligent conversational interfaces.
-- GPT-4 and AI Model Integration: Seamlessly integrating powerful AI models into various applications.
-- Blockchain DApps: Building decentralized applications that redefine industries.
  
-
-
+## Full Stack Blockchain Developer.
+- Want to Connect? Hit me up on [Linkedin](https://www.linkedin.com/in/muhammad-umer-a725471b3/) or [gmail](mailto:umershaikh217@gmail.com)
 
 </p>
-
-
-
-<br>
- 
 
 ### - Languages and Tools
 
@@ -51,8 +25,6 @@ Greetings! 👋 I'm Muhammad Umer Shaikh, your go-to Full Stack Blockchain Devel
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Umer_Shaikh789)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:umershaikh217@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/umer.shaikh.50159)
-
-[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium />](https://medium.com/@umershaikh217)
 
 
 
