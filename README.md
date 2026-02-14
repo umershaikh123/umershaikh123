@@ -1,25 +1,19 @@
-<h1 align="center">Muhammad Umer</h1>
+<h1 align="start">Muhammad Umer</h1>
 
-<p align="center">
+<p align="start">
   <strong>Founding Engineer · Full Stack Developer · 3x Hackathon Winner</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-umer-a725471b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:umershaikh217@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Umer_Shaikh789">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://muhammad-umer-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<p align="start">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umer-a725471b3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umershaikh217@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Umer_Shaikh789)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-umer-portfolio.vercel.app/)
+  
 </p>
 
- 
+---
 
 ## About Me
 
@@ -27,7 +21,7 @@ I'm a Founding Engineer specializing in building production DeFi interfaces, cro
 
 I love hacking at ETHGlobal events — I've participated in **4 ETHGlobal hackathons** and won prizes at 2 of them. Outside of Web3, I'm certified in **Claude Code** by Anthropic and have a background in compiler construction and OS-level systems programming.
 
- 
+---
 
 ## 🏆 Hackathon Achievements
 
@@ -41,7 +35,7 @@ I love hacking at ETHGlobal events — I've participated in **4 ETHGlobal hackat
 
 > The ETH Online 2023 win with Nexus Network directly helped secure the company's **$1M pre-seed funding round**.
 
- 
+---
 
 ## 🎓 Certifications
 
@@ -51,7 +45,7 @@ I love hacking at ETHGlobal events — I've participated in **4 ETHGlobal hackat
 | 4× ETHGlobal Participation Certificates | **ETHGlobal** | 2023 – 2026 |
 | 2nd Place — Mental Health Track | **United Hacks** | 2023 |
 
- 
+---
 
 ## 🛠️ Tech Stack
 
@@ -63,45 +57,41 @@ I love hacking at ETHGlobal events — I've participated in **4 ETHGlobal hackat
 
 **Frontend:** React · Next.js (App Router) · TypeScript · TanStack Query · Zustand · Redux · Tailwind CSS · shadcn/ui
 
-**Web3:** Wagmi v2 · Viem · Ethers.js · RainbowKit · Arbitrum Orbit SDK · Hardhat · Solidity
+**Web3:** Wagmi v2 · Viem · Ethers.js · RainbowKit · Account Abstraction (ERC-4337, EIP-7702, EIP-5792) · EIP-6963 · Arbitrum Orbit SDK · Hardhat · Foundry · Solidity
 
-**Backend & Data:** Node.js · Express · Bun · PostgreSQL · REST APIs · The Graph (subgraphs)
+**Backend & Data:** Node.js · Express · Hono · Bun · PostgreSQL · REST APIs · The Graph (subgraphs) · Ponder
 
 **Tools:** Figma (UI/UX) · Git · Docker · Turborepo · Vercel · GitHub Actions · Linux
 
- 
+---
 
 ## 📂 Featured Projects
 
 ### 🔗 Production Work
 - [**B2B Integration SDK**](https://github.com/umershaikh123/neobank-sdk) — Modular SDK (Core/React/UI) for neobank DeFi integration
-- **Raga Vault Dashboard** — DeFi yield aggregator with Hyperliquid + Spectra strategies and real-time PnL
-- **Arbitrum Orbit Bridges** — Custom L3 bridges for Complere, Lysto, O3, Berachain with client-specific branding
-
-
+- **Raga Vault Dashboard** (private) — DeFi yield aggregator with Hyperliquid + Spectra strategies and real-time PnL
+- **Arbitrum Orbit Bridges** (private) — Custom L3 bridges for Complere, Lysto, O3, Berachain with client-specific branding
 
 ### 🎓 University Projects
 - [**Multi-Server Queue Simulator**](https://github.com/umershaikh123/priority-queue-simulator-p) — Interactive M/M/C and M/G/C queuing simulator with Gantt chart visualizations (Next.js)
 - [**Compiler Construction**](https://github.com/umershaikh123/Compiler) — Custom 3-stage compiler: lexer → parser (configurable CFG) → semantic analyzer with scope/type checking
 - [**OS Scheduling Simulators**](https://github.com/umershaikh123/OperatingSystem) — Browser-based CPU scheduling visualizations (Round Robin, SRT, SJF, HRRN) with interactive Gantt charts
 
- 
+---
 
 ## 📊 GitHub Stats
 
- 
 <p align="center">
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice&show_icons=true&rank_icon=github"/>
 </p>
 
- 
-
- 
+---
 
 ## 🎓 Education
 
-**University of Karachi** — B.Sc. Computer Science (2020 – 2024)
+**University of Karachi** — Bachelors of Computer Science (2020 – 2024)
 GPA: 3.24 / 4.00
 
+ 
  
  
