@@ -53,26 +53,6 @@ I love hacking at ETHGlobal events — I've participated in **4 ETHGlobal hackat
 
  
 
-## 💼 Work Experience
-
-### Raga Finance (formerly Nexus Network) — Founding Engineer
-**Jan 2025 – Mar 2026** · Remote
-
-- Architected a **modular B2B Integration SDK** (Core / React / UI tiers) enabling neobanks to integrate DeFi yields with type-safe TypeScript wrappers
-- Built a **Vault Investment Dashboard** integrating Hyperliquid and Spectra yield strategies with real-time PnL tracking (TanStack Query + Wagmi v2)
-- Implemented **Account Abstraction** using Alchemy SDK, batching multiple vault transactions (deposit, approve, swap) into a single one-click user action
-- Integrated **Enso** for in-app token swaps and cross-chain swaps, streamlining the DeFi UX across supported networks
-- Developed a **cross-chain dApp** (L1 → Movement / Berachain) handling the full frontend from Figma to production
-
-### Nexus Network — Founding Engineer
-**Sep 2023 – Dec 2024** · Remote
-
-- Led frontend for **5 production Arbitrum Orbit bridges** (L3), supporting custom gas tokens and client branding
-- Created **nexus-packages** — an internal Turborepo monorepo sharing UI components and Web3 hooks across products
-- Deployed a **Uniswap V2 DEX fork** (interface + contracts) on the Nexus Orbit chain
-
- 
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -94,14 +74,16 @@ I love hacking at ETHGlobal events — I've participated in **4 ETHGlobal hackat
 ## 📂 Featured Projects
 
 ### 🔗 Production Work
-- **Arbitrum Orbit Bridges** — Custom L3 bridges for Complere, Lysto, O3, Berachain with client-specific branding
+- [**B2B Integration SDK**](https://github.com/umershaikh123/neobank-sdk) — Modular SDK (Core/React/UI) for neobank DeFi integration
 - **Raga Vault Dashboard** — DeFi yield aggregator with Hyperliquid + Spectra strategies and real-time PnL
-- **B2B Integration SDK** — Modular SDK (Core/React/UI) for neobank DeFi integration
+- **Arbitrum Orbit Bridges** — Custom L3 bridges for Complere, Lysto, O3, Berachain with client-specific branding
+
+
 
 ### 🎓 University Projects
-- [**Multi-Server Queue Simulator**](https://github.com/umershaikh123) — Interactive M/M/C and M/G/C queuing simulator with Gantt chart visualizations (Next.js)
-- [**Compiler Construction**](https://github.com/umershaikh123) — Custom 3-stage compiler: lexer → parser (configurable CFG) → semantic analyzer with scope/type checking
-- [**OS Scheduling Simulators**](https://github.com/umershaikh123) — Browser-based CPU scheduling visualizations (Round Robin, SRT, SJF, HRRN) with interactive Gantt charts
+- [**Multi-Server Queue Simulator**](https://github.com/umershaikh123/priority-queue-simulator-p) — Interactive M/M/C and M/G/C queuing simulator with Gantt chart visualizations (Next.js)
+- [**Compiler Construction**](https://github.com/umershaikh123/Compiler) — Custom 3-stage compiler: lexer → parser (configurable CFG) → semantic analyzer with scope/type checking
+- [**OS Scheduling Simulators**](https://github.com/umershaikh123/OperatingSystem) — Browser-based CPU scheduling visualizations (Round Robin, SRT, SJF, HRRN) with interactive Gantt charts
 
  
 
