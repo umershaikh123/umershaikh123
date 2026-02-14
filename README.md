@@ -1,137 +1,125 @@
- 
-<p align="center">
- 
-## Full Stack Blockchain Developer.
-- Want to Connect? Hit me up on [Linkedin](https://www.linkedin.com/in/muhammad-umer-a725471b3/) or [gmail](mailto:umershaikh217@gmail.com)
+<h1 align="center">Muhammad Umer</h1>
 
+<p align="center">
+  <strong>Founding Engineer · Full Stack Developer · 3x Hackathon Winner</strong>
 </p>
 
-### - Languages and Tools
-
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,apollo,css,js,ts,nodejs,bun,express,materialui,tailwind,react,nextjs,postgres,discord,figma,git,linux,solidity,vscode&perline=10" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-umer-a725471b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:umershaikh217@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Umer_Shaikh789">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://muhammad-umer-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
  
 
+## About Me
 
-### - 📫 Reach out to me:
+I'm a Founding Engineer specializing in building production DeFi interfaces, cross-chain bridges, and developer SDKs. Currently at **Raga Finance** (formerly Nexus Network), where I've shipped 5+ production Arbitrum Orbit bridges, a modular B2B Integration SDK, and a Vault Investment Dashboard integrating Hyperliquid and Spectra yield strategies.
+
+I love hacking at ETHGlobal events — I've participated in **4 ETHGlobal hackathons** and won prizes at 2 of them. Outside of Web3, I'm certified in **Claude Code** by Anthropic and have a background in compiler construction and OS-level systems programming.
+
  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-umer-a725471b3/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Umer_Shaikh789)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:umershaikh217@gmail.com)
-[<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/umer.shaikh.50159)
 
+## 🏆 Hackathon Achievements
 
+| Event | Project | Result |
+|---|---|---|
+| **ETHGlobal HackMoney 2026** | [GhostVault](https://ethglobal.com/showcase/ghostvault-m010c) — Uniswap v4 Hook for MEV-protected limit orders that earn LP yield | Participant |
+| **ETHGlobal Unite DeFi 2025** | [Super Order](https://ethglobal.com/showcase/super-order-x6z63) — Advanced order-type protocol for decentralized trading | 🥇 Won **1inch — Expand Limit Order Protocol** |
+| **ETHGlobal ETHOnline 2023** | [Nexus Network](https://ethglobal.com/showcase/nexus-network-ueajk) — Cross-chain restaking infrastructure | 🥇 Won **Polygon** + **Scroll** prizes (out of 2,000+ participants & 515 projects) |
+| **ETHGlobal FVM Space Warp 2023** | [FILend](https://ethglobal.com/showcase/filend-geca9) — Lending protocol on Filecoin VM | Participant |
+| **United Hacks 2023** | Mental Health Track | 🥈 **2nd Place Winner** |
 
-# My Github Stats
+> The ETH Online 2023 win with Nexus Network directly helped secure the company's **$1M pre-seed funding round**.
+
+ 
+
+## 🎓 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| Claude Code in Action | **Anthropic** | Jan 2026 |
+| 4× ETHGlobal Participation Certificates | **ETHGlobal** | 2023 – 2026 |
+| 2nd Place — Mental Health Track | **United Hacks** | 2023 |
+
+ 
+
+## 💼 Work Experience
+
+### Raga Finance (formerly Nexus Network) — Founding Engineer
+**Jan 2025 – Mar 2026** · Remote
+
+- Architected a **modular B2B Integration SDK** (Core / React / UI tiers) enabling neobanks to integrate DeFi yields with type-safe TypeScript wrappers
+- Built a **Vault Investment Dashboard** integrating Hyperliquid and Spectra yield strategies with real-time PnL tracking (TanStack Query + Wagmi v2)
+- Implemented **Account Abstraction** using Alchemy SDK, batching multiple vault transactions (deposit, approve, swap) into a single one-click user action
+- Integrated **Enso** for in-app token swaps and cross-chain swaps, streamlining the DeFi UX across supported networks
+- Developed a **cross-chain dApp** (L1 → Movement / Berachain) handling the full frontend from Figma to production
+
+### Nexus Network — Founding Engineer
+**Sep 2023 – Dec 2024** · Remote
+
+- Led frontend for **5 production Arbitrum Orbit bridges** (L3), supporting custom gas tokens and client branding
+- Created **nexus-packages** — an internal Turborepo monorepo sharing UI components and Web3 hooks across products
+- Deployed a **Uniswap V2 DEX fork** (interface + contracts) on the Nexus Orbit chain
+
+ 
+
+## 🛠️ Tech Stack
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=umershaikh123&theme=darkhub&column=-1&margin-w=15&show_icons=true&rank_icon=github">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,solidity,nodejs,bun,express,postgres,docker,git,figma,linux,vscode,aws&perline=8" />
+  </a>
 </p>
 
+**Frontend:** React · Next.js (App Router) · TypeScript · TanStack Query · Zustand · Redux · Tailwind CSS · shadcn/ui
 
+**Web3:** Wagmi v2 · Viem · Ethers.js · RainbowKit · Arbitrum Orbit SDK · Hardhat · Solidity
+
+**Backend & Data:** Node.js · Express · Bun · PostgreSQL · REST APIs · The Graph (subgraphs)
+
+**Tools:** Figma (UI/UX) · Git · Docker · Turborepo · Vercel · GitHub Actions · Linux
+
+ 
+
+## 📂 Featured Projects
+
+### 🔗 Production Work
+- **Arbitrum Orbit Bridges** — Custom L3 bridges for Complere, Lysto, O3, Berachain with client-specific branding
+- **Raga Vault Dashboard** — DeFi yield aggregator with Hyperliquid + Spectra strategies and real-time PnL
+- **B2B Integration SDK** — Modular SDK (Core/React/UI) for neobank DeFi integration
+
+### 🎓 University Projects
+- [**Multi-Server Queue Simulator**](https://github.com/umershaikh123) — Interactive M/M/C and M/G/C queuing simulator with Gantt chart visualizations (Next.js)
+- [**Compiler Construction**](https://github.com/umershaikh123) — Custom 3-stage compiler: lexer → parser (configurable CFG) → semantic analyzer with scope/type checking
+- [**OS Scheduling Simulators**](https://github.com/umershaikh123) — Browser-based CPU scheduling visualizations (Round Robin, SRT, SJF, HRRN) with interactive Gantt charts
+
+ 
+
+## 📊 GitHub Stats
+
+ 
 <p align="center">
-<img width="250"  height="60" align="center" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/df96a80f-eab5-469c-a0c3-a705c30ba42a"/>
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice&show_icons=true&rank_icon=github"/>
 </p>
 
-
-<br>
-
- <p align="center">
- <img height="500" align="left" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
-
-<img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=umershaikh123&theme=black-ice&show_icons=true&rank_icon=github"/>
-
-<img height="500" align="right" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73">
-
-</p>
- 
-  <p align="center">
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=umershaikh123&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
- </p>
-
-
- [![An image of @um1888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/um1888)](https://holopin.io/@um1888)
-
-
-<p>
- 
-
-
-</p>
-
-
- 
- 
-
- 
-# Participated Blockchain Hackathons  
-
-<p align="center" >
- 
- <img  width="180" height="180" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/026986c8-2648-490f-b584-278f05ce02f4"/> 
- 
-</p>
-
-
-
- 
-
-<p float="center">
- 
-
- 
- <a href="">
- <img width="400" height="250" alt="moralis-x-filecoin-2022-hackathon" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/9b3bbd58-520d-454d-ba2c-12c003ad1946">
- </a>
- 
-
- <a href="">
- <img width="400" height="250" alt="fvm-space-warp-2023-staked-hacker-2023-logo-1676425674291" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/4090b947-82d3-4391-9140-586a277ebac3">
- </a>
- 
-  <a href="">
- <img width="400" height="250" alt="cyber-connect-2023" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/1ed5e1bd-c763-42d3-afbe-ad475a37cc12">
- </a>
- 
-
- 
- 
-   <a href="">
- <img width="400" height="250" alt="HackUnited" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/f42364ee-9c54-4107-ade4-3a4bac35585f">
- </a>
  
 
  
 
+## 🎓 Education
+
+**University of Karachi** — B.Sc. Computer Science (2020 – 2024)
+GPA: 3.24 / 4.00
 
  
-  <a href="">
- <img width="400" height="250" alt="hack-united-Winner" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/425119f4-3bd3-4f95-b3a7-17b7dab0b08e">
- </a>
-
-
-   <a href="">
- <img width="400" height="250" alt="Eth Global" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/f4267d9b-7da2-49ac-8b53-b1b411329bc5">
- </a>
  
- 
-</p> 
- 
- 
-<a
-  title="Like Umer's work? Buy him a coffee"
-  class="bmac"
-  href="https://www.buymeacoffee.com/umershaikhf" target="_blank">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MuhammadUmer&button_colour=028692&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
-
-
-
-
-
-
-
