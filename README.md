@@ -15,9 +15,8 @@
 
 ## About Me
 
-Front End Engineer with 2.5 years of experience as the founding engineer at a startup. I specialize in React, Next.js (App Router), and TypeScript, building data-driven dashboards, modular SDK architectures, and complex multi-step user flows. I've owned the full front-end lifecycle from Figma design through production, and I'm growing my backend skills in Node.js and REST API development.
-
-I love hackathons. I've participated in over 10 and won awards at 3 of them, including a solo project that won a $10K bounty. Currently looking to transition into fullstack engineering and work on enterprise SaaS products at scale.
+Front End Engineer with 2.5 years of experience as the founding engineer at a startup. I specialize in frontEnd technologies. Learning to become a FullStack engineer
+I love hackathons. I've participated in over 10 and won awards at 3 of them, including a solo project . Currently looking to transition into fullstack engineering and work on enterprise SaaS products at scale.
 
 ---
 
@@ -41,24 +40,9 @@ I love hackathons. I've participated in over 10 and won awards at 3 of them, inc
   </a>
 </p>
 
-**Frontend:** React · Next.js (App Router) · TypeScript · TanStack Query · Zustand · Redux · Tailwind CSS · shadcn/ui · Accessibility (ARIA)
-
-**Backend & APIs:** Node.js · Express · Hono · Bun · PostgreSQL · REST API Design
-
-**Tools:** Figma (UI/UX) · Git · Docker · Turborepo · Vercel · GitHub Actions · Linux
-
-**Other:** Blockchain (Wagmi, Ethers.js, Solidity)
-
 ---
 
-## Featured Projects
-
-### Production
-- **B2B Integration SDK** — Modular SDK (Core/React/UI tiers) enabling partner platforms to embed products, published as a Turborepo monorepo
-- **Investment Dashboard** — Portfolio analytics with PnL tracking, built with React, TypeScript, and TanStack Query
-- **White-label Applications** — Customized open-source React codebase for B2B clients with configurable theming and branding
-
-### University
+### University Projects
 - [**Compiler Construction**](https://github.com/umershaikh123/Compiler) — Custom 3-stage compiler: lexer producing token streams, parser with configurable CFG, semantic analyzer with scope resolution and type checking
 - [**OS Scheduling Simulators**](https://github.com/umershaikh123/OperatingSystem) — Browser-based CPU scheduling visualizations (SRT, SJF, HRRN) with D3.js Gantt charts, plus a CLI Round Robin scheduler
 
